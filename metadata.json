@@ -1,0 +1,7 @@
+{
+  "name": "Andee",
+  "description": "A sophisticated AI-powered meeting assistant that manages your calendar through voice commands and proactive check-ins.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
